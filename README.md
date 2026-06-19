@@ -16,6 +16,3 @@ It allows you to ask questions in natural language and get answers powered by li
 - **Callback handler** (`StreamlitCallbackHandler`) to show the agent’s reasoning steps interactively.
 - **Conversation memory** stored in `st.session_state`.
 
----
-
-## 📂 Project Structure
